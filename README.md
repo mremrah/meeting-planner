@@ -1,1 +1,1 @@
-**bold** Meeting Planner App **bold** developed with **bold** React.JS **bold** in the front-end and **bold** Firebase **bold** in the back-end.
+**Meeting Planner App** developed with **React.JS** in the front-end and **Firebase** in the back-end.
