@@ -4,7 +4,7 @@ import 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyABtJJkZ2VZPeRrEanAjhM_xZ7nyiBx8Rk",
+    apiKey: "",
     authDomain: "my-meeting-planner.firebaseapp.com",
     databaseURL: "https://my-meeting-planner.firebaseio.com",
     projectId: "my-meeting-planner",
